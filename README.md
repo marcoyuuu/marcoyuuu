@@ -1,7 +1,7 @@
 ### Hi there, I'm Marco Alexandré Yu Cordero 👋
 
 💡 **Full-Stack Developer | Project Manager | AI & Cloud Enthusiast | Passionate About Scalable Tech**  
-🔭 **Currently Working On:** A **real-time tsunami alert system** using **React Native, Expo, Node.js, Express, and Firebase** for the [Puerto Rico Seismic Network](https://redsismica.uprm.edu/index.php)
+🔭 **Currently Working On:** A **real-time tsunami alert system** using **React Native, Expo, Node.js, Express, and Firebase** for the [Puerto Rico Seismic Network](https://redsismica.uprm.edu/index.php) 
 🌱 **Learning:** [Data science](https://www.coursera.org/professional-certificates/ibm), AI-driven software solutions & cloud infrastructure deployment
 
 ---
