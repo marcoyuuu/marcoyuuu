@@ -1,9 +1,8 @@
 ### Hi there, I'm Marco Alexandré Yu Cordero 👋
 
-💡 **Full-Stack Developer | AI & Cloud Enthusiast | Passionate About Scalable Tech**  
-🔭 **Currently Working On:** A **real-time tsunami alert system** using **React Native, Expo, Node.js, Express, and Firebase** for the [Puerto Rico Seismic Network](https://redsismica.uprm.edu/index.php)  
-🌱 **Learning:** AI-driven software solutions & cloud infrastructure deployment  
-💬 **Ask Me About:** Full-stack development, DevOps, AI-driven solutions  
+💡 **Full-Stack Developer | Project Manager | AI & Cloud Enthusiast | Passionate About Scalable Tech**  
+🔭 **Currently Working On:** A **real-time tsunami alert system** using **React Native, Expo, Node.js, Express, and Firebase** for the [Puerto Rico Seismic Network](https://redsismica.uprm.edu/index.php)
+🌱 **Learning:** [Data science](https://www.coursera.org/professional-certificates/ibm), AI-driven software solutions & cloud infrastructure deployment
 
 ---
 
@@ -29,17 +28,18 @@ Currently seeking **full-time software engineering roles or internships** starti
 ---
 
 ### 📌 **Pinned Projects**
-⭐ **[Full-Stack Car Dealership Application](https://github.com/marcoyuuu/Fitness_Tracker_DB)**  
-A **Fitness Tracker Web Application** built with a **React frontend and a PHP/MySQL backend**. The application allows users to track their fitness activities, manage routines, and participate in fitness programs.  
+🚗 **[Full-Stack Car Dealership Application](https://github.com/marcoyuuu/xrwvm-fullstack_developer_capstone)**  
+A **capstone project for IBM’s Full-Stack Application Development Certification**, showcasing expertise in **frontend and backend technologies**. This web application enables users to **browse dealers, read and post reviews, and search car inventories with dynamic filters**. Built using **React, Django, Node.js, Express, MongoDB, Docker, and Kubernetes** for a scalable and cloud-ready deployment.
 
 🔬 **[Catalist](https://github.com/marcoyuuu/Catalist)**  
-A **sales and billing management solution** for the chemical industry, enabling **real-time strategic decisions** through intuitive product, customer, and supplier management.
+A **comprehensive sales and billing management solution** for the chemical industry, streamlining **product, customer, and supplier management** while enabling **real-time strategic decision-making** with advanced reporting and compliance features. Built with **HTML, CSS, JavaScript, Bootstrap, MongoDB, Node.js, Express, and Firebase Hosting**.
 
 ---
 
 ### 📌 **Currently Working On**
-🚗 **[Fitness Tracker Web Application](https://github.com/marcoyuuu/xrwvm-fullstack_developer_capstone)**  
-A **capstone project** for IBM’s Full-Stack Application Development Certification. This **full-stack web application** demonstrates front‑end and back‑end proficiency. It features a **Car Dealership platform**, allowing users to view dealer details, read/post reviews, and search inventory with dynamic filters.  
+💪 **[Fitness Tracker Web Application](https://github.com/marcoyuuu/Fitness_Tracker_DB)**  
+A **full-stack fitness tracking solution** that allows users to **log workouts, manage routines, and join fitness programs**. Built with **React, PHP, MySQL, and Apache**, this application provides an interactive way to track fitness progress with session logging, routine management, and user engagement. 🏋️‍♂️💪
+
 
 🏝 **[OpenGL 3D Lighthouse Render](https://github.com/marcoyuuu/Examen-Final-Proyecto-paper-ACM-SIGGRAPH)**  
 A **real-time rendering system** using OpenGL. Features **advanced lighting, a dynamic skybox, and an interactive scene** with Phong-based lighting, normal/roughness maps, and frustum culling to create a realistic marine simulation.
