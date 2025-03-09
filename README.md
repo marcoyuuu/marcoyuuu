@@ -9,9 +9,9 @@
 ---
 
 ### 🚀 **About Me**
-I'm a **Computer Science student graduating in May 2025** with hands-on experience in **full-stack development, cloud computing, and AI-driven solutions**. Passionate about building **scalable, high-performance applications**, I specialize in leveraging AI tools like ChatGPT to optimize decision-making, enforce best practices, and streamline workflows.  
+Computer Science student graduating in **May 2025** with hands-on experience in **full-stack development** and **technical project management**. Passionate about building **scalable, high-performance applications** that bridge technology and innovation. 
 
-Currently seeking **full-time software engineering roles or internships** starting June 2025, with a focus on **full-stack architectures, cloud infrastructure, and AI-driven solutions** to advance **Puerto Rico’s tech ecosystem**.
+Skilled in leveraging **AI tools like ChatGPT** to optimize decision-making, enforce best practices, and streamline workflows. Managing all stages of the **software lifecycle**, I seek **full-time software engineering roles or internships** starting **June 2025**, focusing on **full-stack architectures, cloud infrastructure, and AI-driven solutions** to advance **Puerto Rico’s tech ecosystem**.
 
 ---
 
@@ -40,11 +40,25 @@ A **comprehensive sales and billing management solution** for the chemical indus
 
 ### 📌 **Currently Working On**
 💪 **[Fitness Tracker Web Application](https://github.com/marcoyuuu/Fitness_Tracker_DB)**  
-A **full-stack fitness tracking solution** that allows users to **log workouts, manage routines, and join fitness programs**. Built with **React, PHP, MySQL, and Apache**, this application provides an interactive way to track fitness progress with session logging, routine management, and user engagement. 🏋️‍♂️💪
+A **full-stack fitness tracking solution** that allows users to **log workouts, manage routines, and join fitness programs**. Built with **React, PHP, MySQL, and Apache**, this application provides an interactive way to track fitness progress with session logging, routine management, and user engagement.
 
 
 🏝 **[OpenGL 3D Lighthouse Render](https://github.com/marcoyuuu/Examen-Final-Proyecto-paper-ACM-SIGGRAPH)**  
 A **real-time rendering system** using OpenGL. Features **advanced lighting, a dynamic skybox, and an interactive scene** with Phong-based lighting, normal/roughness maps, and frustum culling to create a realistic marine simulation.
+
+---
+
+## 🎓 Certifications
+
+- **[IBM Full Stack Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) 🖥️☁️**  
+  *Issued by IBM on Coursera (Certificate obtained 01/16/25)*  
+  Covers how to build, deploy, test, run, and manage **full-stack cloud-native applications** using **CI/CD pipelines**,  
+  **microservices** , and **scalable cloud deployment** with hands-on project implementation.
+
+- **[Google Project Management](https://www.coursera.org/professional-certificates/google-project-management/) 📊📅**  
+  *Issued by Google on Coursera (Certificate obtained 12/04/23)*  
+  Covers **Agile methodologies**, **project planning**, **risk management**, **stakeholder communication**,  
+  and hands-on application of **Scrum** and **leadership** for team collaboration.
 
 ---
 
