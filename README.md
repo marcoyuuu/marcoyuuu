@@ -4,7 +4,7 @@
 
 🔭 **Currently Working On:** A **real-time tsunami alert system** using **React Native, Expo, Node.js, Express, and Firebase** for the [Puerto Rico Seismic Network](https://redsismica.uprm.edu/index.php)
 
-🌱 **Learning:** [Data science](https://www.coursera.org/professional-certificates/ibm), AI-driven software solutions & cloud infrastructure deployment
+🌱 **Learning:** [Data science](https://www.coursera.org/professional-certificates/ibm-data-science), AI-driven software solutions & cloud infrastructure deployment
 
 ---
 
@@ -76,6 +76,9 @@ A **capstone project for IBM’s Full-Stack Application Development Certificatio
 🔬 **[Catalist](https://github.com/marcoyuuu/Catalist)**  
 A **comprehensive sales and billing management solution** for the chemical industry, streamlining **product, customer, and supplier management** while enabling **real-time strategic decision-making** with advanced reporting and compliance features. Built with **HTML, CSS, JavaScript, Bootstrap, MongoDB, Node.js, Express, and Firebase Hosting**.
 
+🤖 **[LLMify-Code](https://github.com/marcoyuuu/LLMify-Code)**  
+A **Python tool for transforming local codebases into structured text or json files** for large language models like ChatGPT. Supports **configurable YAML ignore rules, token counting, JSON/plain text output**, and **rich terminal logging** using `Rich` and `Typer`.
+
 ---
 
 ### 📌 **Currently Working On**
@@ -99,6 +102,9 @@ A **real-time rendering system** using OpenGL. Features **advanced lighting, a d
   *Issued by Google on Coursera (Certificate obtained 12/04/23)*  
   Covers **Agile methodologies**, **project planning**, **risk management**, **stakeholder communication**,  
   and hands-on application of **Scrum** and **leadership** for team collaboration.
+
+- **[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) 📜 (In Progress)**  
+Covers **Python for data science, machine learning, SQL, and data visualization**, providing hands-on experience in **AI-driven analytics and decision-making**.
 
 ---
 
